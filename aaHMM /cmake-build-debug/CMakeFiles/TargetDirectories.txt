@@ -1,0 +1,3 @@
+/Users/sixiang/CLionProjects/aaHMM/cmake-build-debug/CMakeFiles/aaHMM.dir
+/Users/sixiang/CLionProjects/aaHMM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sixiang/CLionProjects/aaHMM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
