@@ -1,7 +1,9 @@
 # aaHMM
 
-`alpha-HMM` is a tool that RNA secondary structure prediciton.
+`alpha-HMM` is a tool for RNA secondary structure prediciton.
 
+## Authors
+Aaron Junxiang Yang and Sixiang Zhang
 ## Requirements
 
 - C++ with C++17 support
@@ -55,4 +57,4 @@ Ensure the `alphaHMM` executable is located as per the `executable_path` or adju
 
 ## Contact & Support
 
-For any issues or queries, contact [Sixiang] at [sz94706@uga.edu].
+For any issues or queries, contact [Aaron] at [aya12915@oconeeschools.org] and [Sixiang] at  [sz94706@uga.edu].
